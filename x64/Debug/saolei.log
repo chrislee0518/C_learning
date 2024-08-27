@@ -1,0 +1,5 @@
+﻿  saolei.c
+D:\VsProjects\cPro\saolei\saolei.c(1,1): warning C4828: 文件包含在偏移 0xb6c 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.c
+  正在生成代码...
+  saolei.vcxproj -> D:\VsProjects\cPro\saolei\x64\Debug\game0712.exe
